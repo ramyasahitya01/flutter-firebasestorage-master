@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922397893061",
+    "firebase_url": "https://flutter-final-upload.firebaseio.com",
+    "project_id": "flutter-final-upload",
+    "storage_bucket": "flutter-final-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922397893061:android:7fd027a9e80c3167",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922397893061-1m3lktpsiee5ta6h3rss72eqp3ufmbbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClghtvv5yGsl7CmX8e1UTX6q2KCqH9Dik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922397893061-1m3lktpsiee5ta6h3rss72eqp3ufmbbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
